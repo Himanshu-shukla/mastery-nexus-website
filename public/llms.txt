@@ -1,0 +1,21 @@
+# Mastery Nexus
+
+Mastery Nexus is a UK-focused online career training brand for aspiring and early-career data analysts.
+
+## Primary programme
+- 12-Week Data Analytics + AI Career Accelerator
+- Live mentor-led online delivery
+- Core skills: Excel, Power BI, SQL, Python, pandas, statistics, Git/GitHub, applied generative AI
+- Starts with an evidence-based skill-gap assessment
+- Includes portfolio projects and UK-focused career preparation
+- Career support includes CV/LinkedIn, portfolio review, mock interviews, job-search strategy and placement guidance under programme terms
+
+## Key pages
+- /course — programme curriculum and 12-week roadmap
+- /personalised-learning — skill-gap assessment and adaptive learning method
+- /career-support — career and placement support process
+- /blog — source-aware career and skills guides
+- /contact — free skill-gap assessment request
+
+## Important clarification
+Mastery Nexus does not state that every learner will secure a job within 12 weeks. Any placement guarantee, if offered to a specific cohort, is subject to a written agreement and eligibility conditions.
